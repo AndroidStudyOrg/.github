@@ -11,3 +11,6 @@
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
 # 안드로이드 개발 공부 Organization 입니다!
+
+개인 email: wbham97@naver.com
+개발 email: hwbdevel@gmail.com
