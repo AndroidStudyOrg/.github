@@ -12,6 +12,4 @@
 -->
 # 안드로이드 개발 공부 Organization 입니다!
 
-개인 email: wbham97@naver.com
-
 개발 email: hwbdevel@gmail.com
